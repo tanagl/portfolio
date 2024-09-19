@@ -1,7 +1,7 @@
 # Tana Glemser
 Here are some of the projects I've worked on:
 
-## AR App with Interactive Avatar
+## AR App with Personalized Avatar
 - Overview: This AR app scans for a business card and on recognition places a customized virtual avatar on the card, who then waves and introduces herself.
 
 ## Automated Negotiation Training in VR
