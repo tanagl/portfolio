@@ -1,6 +1,12 @@
 Here are some of the projects I've worked on:
 
+## Extended Minds
+![Project Teaserimage](./images/ExtMinds3.png)
+- Overview: Automated soft-skill training with AI-controlled avatars as conversation partners
+- Technical Details: Developed in Unity, using CC4 character models and utilizing GPT-models for answer generation. TTS and speech recognition with Meta Voice SDK.
+
 ## Character realism
+![Project Teaserimage](./images/Screenshot-Video.png)
 - Overview: Video to showcase the integration of high-quality character models in different scenes, as part of an internship.
 - Technical Details: Models created with the Character Creator 4 (Reallusion). Video recording with Cinemachine. High-quality lighting and use of HDRP.
 
