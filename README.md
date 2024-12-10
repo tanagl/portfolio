@@ -1,18 +1,18 @@
 Here are some of the projects I've worked on:
 
 ## Extended Minds
-<img src="./images/ExtMinds3.png" alt="Project Teaserimage" width="100">
+<img src="./images/ExtMinds3.png" alt="Project Teaserimage" width="400">
 - Overview: Automated soft-skill training with AI-controlled avatars as conversation partners
 - Technical Details: Developed in Unity, using CC4 character models and utilizing GPT-models for answer generation. TTS and speech recognition with Meta Voice SDK.
 
 ## Character realism
-<img src="./images/Screenshot-Video.png" alt="Project Teaserimage" width="100">
+<img src="./images/Screenshot-Video.png" alt="Project Teaserimage" width="600">
 - Overview: Video to showcase the integration of high-quality character models in different scenes, as part of an internship.
 - Technical Details: Models created with the Character Creator 4 (Reallusion). Video recording with Cinemachine. High-quality lighting and use of HDRP.
 
 
 ## Automated Negotiation Training in VR
-<img src="./images/exp01-crop.png" alt="Project Teaserimage" width="100">
+<img src="./images/exp01-crop.png" alt="Project Teaserimage" width="600">
 - Overview: This VR application features a GPT-controlled conversation partner for autonomous negotiation training and was developed as part of my master thesis study ("Bot or Not: Exploring the Perceived Agency of an Embodied Artificial Intelligence in a Virtual Reality Negotiation Training"). The study explores the agency effect through framing of the negotiation agent as human-controlled or AI-controlled.
 - Technical Details: The negotiation partner was connected to the GPT-4 model from OpenAI to generate responses, through the OkGoDoIt library. Speech recognition and text-to-speech functionality is implemented with Microsoft Azure. Character models were created with Autodesk Character Generator. Animations are from Mixamo and lip-sync is realized with the SALSA LipSync Suite from CrazyMinnowStudio. Developed in Unity for the Meta Quest Pro.
 
@@ -26,7 +26,7 @@ Here are some of the projects I've worked on:
 - Technologies: Python, Jupyter Notebooks
 
 ## 3D and Multimodal Interfaces Project in VR
-<img src="./images/3dui_teaser.png" alt="Project Teaserimage" width="100">
+<img src="./images/3dui_teaser.png" alt="Project Teaserimage" width="600">
 - Overview: University projects in Unity for VR environments with interactive elements. Design and implementation of different navigation techniques, as well as interaction with elements. Design and inegration of 3D interfaces and speech controlled interactions. 
 
 ## AR App: Personalized Avatar
