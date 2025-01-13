@@ -41,4 +41,8 @@ Here are some of the projects I've worked on:
 - Overview: This AR app allows for placement, rotation and scaling of a 3D elevator (from an .ifc model).
 - Technical Details: developed in Unity for an Android tablet.
 
+## UI/UX Design project for App
+<img src="./images/nit.png" alt="Project Teaserimage" width="800">
 
+- Overview: App-prototype for generating and sharing knitting patterns. Including market analysis, brand strategy and design process.
+- Technical Details: fully clickable prototype developed with Figma
